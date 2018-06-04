@@ -1,11 +1,23 @@
 # X-MARS Reordering of the MARS Dataset for Image to Video Evaluation
 
-This repository provides the X-MARS training and test splits based on the [MARS dataset](http://www.liangzheng.com.cn/Project/project_mars.html). Details on the X-MARS dataset can be found in my [masters thesis](TODO).
+This repository provides the X-MARS training and test splits based on the [MARS dataset](http://www.liangzheng.com.cn/Project/project_mars.html). Details on the X-MARS dataset can be found in my [masters thesis](https://arxiv.org/pdf/1803.08709.pdf).
 
 If you use this work in your research, please kindly cite my thesis as
 
-``` 
-TODO
+```
+@article{DBLP:journals/corr/abs-1803-08709,
+  author    = {Andreas Eberle},
+  title     = {Pose-Driven Deep Models for Person Re-Identification},
+  journal   = {CoRR},
+  volume    = {abs/1803.08709},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1803.08709},
+  archivePrefix = {arXiv},
+  eprint    = {1803.08709},
+  timestamp = {Wed, 11 Apr 2018 11:12:46 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1803-08709},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ``` 
 
 and the work of Zheng et al. which created the MARS dataset as
